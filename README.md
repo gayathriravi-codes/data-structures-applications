@@ -54,5 +54,4 @@ Gayathri Ravi
 💻 Aspiring AI & Data Science Engineer
 🔗 LinkedIn Profile
  https://www.linkedin.com/in/gayathri-ravi-ai-datascience/
-### ✅ Parentheses Checker
-Input:
+
