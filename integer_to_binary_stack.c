@@ -17,7 +17,7 @@ int pop(STACK *s)
 }
 void int_to_bin(STACK *s,int num)
 {
-    int rem,bin[10],i=0,j=0;
+    int temp=num,rem,bin[10],i=0,j=0;
     while(num!=0)
     {
         rem=num%2;
