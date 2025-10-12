@@ -11,6 +11,9 @@ The programs focus on stack operations and demonstrate practical use-cases like 
 - `integer_to_binary_stack.c` → Convert integers to binary using stack
 - `palindrome_stack.c` → Check if a string is palindrome using stack
 - `parentheses_checker_stack.c` → Validate balanced parentheses/brackets using stack
+- `gcd_recursion.c` → Calculate GCD of two numbers using recursion
+- `tower_of_hanoi.c` → Solve Tower of Hanoi using recursion
+- `queue_integer_implementation.c` → Implement integer queue (enqueue, dequeue, display)
 
 🚀 Features
 - Clean and modular C implementations
