@@ -1,19 +1,48 @@
 📚 Data Structures Applications in C
 
 This repository contains implementations of Data Structures and their real-world applications using the C programming language.  
-The programs focus on stack operations and demonstrate practical use-cases like expression conversions, evaluation, palindrome checks, and binary conversion.  
+This repo packs in stack/queue operations, recursion challenges, expression conversions, linked-list utilities, and more — all written clean, modular, and beginner-friendly.
 
 📂 Repository Structure
-- `stack_integer_implementation.c` → Basic stack implementation (push, pop, display)
-- `infix_to_postfix.c` → Convert infix expression to postfix using stack
-- `infix_to_prefix.c` → Convert infix expression to prefix using stack
-- `postfix_evaluator.c` → Evaluate postfix expressions
-- `integer_to_binary_stack.c` → Convert integers to binary using stack
-- `palindrome_stack.c` → Check if a string is palindrome using stack
-- `parentheses_checker_stack.c` → Validate balanced parentheses/brackets using stack
-- `gcd_recursion.c` → Calculate GCD of two numbers using recursion
-- `tower_of_hanoi.c` → Solve Tower of Hanoi using recursion
-- `queue_integer_implementation.c` → Implement integer queue (enqueue, dequeue, display)
+🧱 Stack Implementations
+
+stack_integer_implementation.c → Basic integer stack (push, pop, display)
+
+stack_using_linked_list.c → Stack implemented using linked lists
+
+infix_to_postfix.c → Convert infix expression to postfix using stack
+
+infix_to_prefix.c → Convert infix expression to prefix using stack
+
+postfix_evaluator.c → Evaluate postfix expressions
+
+integer_to_binary_stack.c → Convert an integer to binary using stack
+
+palindrome_stack.c → Check if a string is palindrome using stack
+
+parentheses_checker_stack.c → Validate balanced parentheses/brackets
+
+📋 Queue Implementations
+
+queue_integer_implementation.c → Integer queue using arrays (enqueue, dequeue, display)
+
+queue_using_linked_list.c → Queue using linked list
+
+circular_queue_implementation.c → Circular queue implementation
+
+🔗 Linked List Utilities
+
+ordered_list.c → Create and maintain an ordered linked list
+
+reverse_linked_list.c → Reverse a singly linked list
+
+polynomial_multiplication_linkedlist.c → Multiply two polynomials using linked lists
+
+🌀 Recursion-Based Programs
+
+gcd_recursion.c → Compute GCD of two numbers using recursion
+
+tower_of_hanoi.c → Solve Tower of Hanoi using recursion
 
 🚀 Features
 - Clean and modular C implementations
