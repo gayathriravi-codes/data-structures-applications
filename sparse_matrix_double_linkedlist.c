@@ -54,11 +54,11 @@ void display_matrix(NODE start,int m,int n)
             {
                 printf("%d\t",temp->data);
                 temp=temp->next;
+            }
+            else
+                printf("0\t");
         }
-    else
-        printf("0\t");
-}
-printf("\n");
+        printf("\n");
     }
 }
 int main()
